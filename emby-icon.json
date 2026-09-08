@@ -1,5 +1,10 @@
 {
   "name": "北望自用图标库",
   "description": "",
-  "icons": []
+  "icons": [
+    {
+      "name": "lris2",
+      "url": "https://cdn.nodeimage.com/i/EGifoAT6XkrkeYaPeZH2GfIGwn9iUYoF.jpeg"
+    }
+  ]
 }
