@@ -3,10 +3,6 @@
   "description": "北望",
   "icons": [
     {
-      "name": "lris2",
-      "url": "https://cdn.nodeimage.com/i/EGifoAT6XkrkeYaPeZH2GfIGwn9iUYoF.jpeg"
-    },
-    {
       "name": "zhezhi",
       "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/zhezhi.jpeg"
     }
