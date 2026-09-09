@@ -4,20 +4,19 @@
   "icons": [
     {
       "name": "zhezhi",
-      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/zhezhi.jpeg",
-      "group": "emby"
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/emby/zhezhi.jpeg"
     },
     {
       "name": "lris2",
-      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/lris2.jpeg"
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/emby/lris2.jpeg"
     },
     {
       "name": "lris",
-      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/lris.jpeg"
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/emby/lris.jpeg"
     },
     {
       "name": "fenghuolun",
-      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/fenghuolun.jpeg"
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/icons/emby/fenghuolun.jpeg"
     }
   ]
 }
