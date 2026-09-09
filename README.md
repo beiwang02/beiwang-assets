@@ -20,8 +20,4 @@ https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/emby-icon.json
 
 ## 文件命名规则
 
-图片文件名跟随图标标签名，例如 Iris2.jpeg。建议只使用英文字母、数字、横线和下划线，不使用中文，以减少路径兼容问题。
-
----
-
-*由 GitHub 图标库脚本自动维护*
+图片文件名跟随图标标签名。建议只使用英文字母、数字、横线和下划线，不使用中文，以减少路径兼容问题。
