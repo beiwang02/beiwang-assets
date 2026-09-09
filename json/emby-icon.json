@@ -1,0 +1,22 @@
+{
+  "name": "emby图标库",
+  "description": "北望",
+  "icons": [
+    {
+      "name": "zhezhi",
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/assets/emby/zhezhi.jpeg"
+    },
+    {
+      "name": "lris2",
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/assets/emby/lris2.jpeg"
+    },
+    {
+      "name": "lris",
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/assets/emby/lris.jpeg"
+    },
+    {
+      "name": "fenghuolun",
+      "url": "https://raw.githubusercontent.com/beiwang02/beiwang-icon/main/assets/emby/fenghuolun.jpeg"
+    }
+  ]
+}
