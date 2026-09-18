@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "assets": {
+    "assets/emby/AlphaTVPro.jpeg": {
+      "createdAt": "2026-09-13T12:39:46Z",
+      "source": "git-history"
+    },
+    "assets/emby/fenghuolun.jpeg": {
+      "createdAt": "2026-09-09T05:27:51Z",
+      "source": "git-history"
+    },
+    "assets/emby/lewa.png": {
+      "createdAt": "2026-09-16T10:25:48Z",
+      "source": "git-history"
+    },
+    "assets/emby/lris.jpeg": {
+      "createdAt": "2026-09-09T05:27:51Z",
+      "source": "git-history"
+    },
+    "assets/emby/lris2.jpeg": {
+      "createdAt": "2026-09-09T05:27:51Z",
+      "source": "git-history"
+    },
+    "assets/emby/wanwan.jpeg": {
+      "createdAt": "2026-09-18T11:48:22Z",
+      "source": "git-history"
+    },
+    "assets/emby/zhezhi.jpeg": {
+      "createdAt": "2026-09-09T05:27:51Z",
+      "source": "git-history"
+    }
+  },
+  "libraries": {
+    "json/emby-icon.json": {
+      "createdAt": "2026-09-09T05:27:51Z",
+      "updatedAt": "2026-09-18T11:49:21Z",
+      "references": [
+        {
+          "name": "lris",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/lris.jpeg",
+          "addedAt": "2026-09-09T05:27:51Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "lris2",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/lris2.jpeg",
+          "addedAt": "2026-09-09T05:27:51Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "fenghuolun",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/fenghuolun.jpeg",
+          "addedAt": "2026-09-09T05:27:51Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "lewa",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/lewa.png",
+          "addedAt": "2026-09-16T10:25:48Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "zhezhi",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/zhezhi.jpeg",
+          "addedAt": "2026-09-09T05:27:51Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "wanwan",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/wanwan.jpeg",
+          "addedAt": "2026-09-18T11:48:22Z",
+          "source": "asset-created"
+        },
+        {
+          "name": "AlphaTVPro",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/AlphaTVPro.jpeg",
+          "addedAt": "2026-09-13T12:39:46Z",
+          "source": "asset-created"
+        }
+      ],
+      "source": "git-history"
+    }
+  }
+}
