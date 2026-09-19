@@ -28,12 +28,16 @@
     "assets/emby/zhezhi.jpeg": {
       "createdAt": "2026-09-09T05:27:51Z",
       "source": "git-history"
+    },
+    "assets/emby/omega.jpeg": {
+      "createdAt": "2026-09-19T10:16:53.801Z",
+      "source": "recorded"
     }
   },
   "libraries": {
     "json/emby-icon.json": {
       "createdAt": "2026-09-09T05:27:51Z",
-      "updatedAt": "2026-09-18T11:49:21Z",
+      "updatedAt": "2026-09-19T10:16:53.801Z",
       "references": [
         {
           "name": "lris",
@@ -76,6 +80,12 @@
           "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/AlphaTVPro.jpeg",
           "addedAt": "2026-09-13T12:39:46Z",
           "source": "asset-created"
+        },
+        {
+          "name": "omega",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/omega.jpeg",
+          "addedAt": "2026-09-19T10:16:53.801Z",
+          "source": "recorded"
         }
       ],
       "source": "git-history"
