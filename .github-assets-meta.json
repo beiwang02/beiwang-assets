@@ -57,6 +57,12 @@
       "blobSha": "81d0f4c398ad59310d0bf6e2688aba17d7f8b17e",
       "retryable": false
     },
+    "assets/emby/yeciyuan.jpeg": {
+      "createdAt": "2026-09-25T13:31:26.212Z",
+      "updatedAt": "2026-09-25T13:31:26.212Z",
+      "source": "recorded",
+      "blobSha": "cabc6a1bae49b77176811263a8db171e94e85474"
+    },
     "assets/emby/zhezhi.jpeg": {
       "createdAt": "2026-09-09T05:27:51Z",
       "updatedAt": "2026-09-16T10:24:13Z",
@@ -64,21 +70,15 @@
       "historySha": "c9e2f3918fb56ab64cc9012a2d0e5f42551f2eb7",
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
-    },
-    "assets/emby/yeciyuan.jpeg": {
-      "createdAt": "2026-09-25T13:31:26.212Z",
-      "updatedAt": "2026-09-25T13:31:26.212Z",
-      "source": "recorded",
-      "blobSha": "cabc6a1bae49b77176811263a8db171e94e85474"
     }
   },
   "libraries": {
     "json/emby-icon.json": {
       "createdAt": "2026-09-09T05:27:51Z",
-      "updatedAt": "2026-09-19T10:17:02Z",
+      "updatedAt": "2026-09-25T13:31:40.715Z",
       "source": "git-history",
       "historySha": "2d8b24d7a87ac928650edf6a43af0dfdad0e634f",
-      "blobSha": "e92acdeeea387eead7c5bda4126d16156a614a0f",
+      "blobSha": "91c9d7bda2893b1360a137356211d866959dfb7b",
       "references": [
         {
           "name": "lris",
@@ -135,6 +135,13 @@
           "addedAt": "2026-09-19T10:17:02Z",
           "updatedAt": "2026-09-19T10:17:02Z",
           "source": "git-history"
+        },
+        {
+          "name": "yeciyuan",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/yeciyuan.jpeg",
+          "addedAt": "2026-09-25T13:31:40.715Z",
+          "updatedAt": "2026-09-25T13:31:40.715Z",
+          "source": "recorded"
         }
       ],
       "retryable": false
