@@ -63,6 +63,12 @@
       "source": "recorded",
       "blobSha": "cabc6a1bae49b77176811263a8db171e94e85474"
     },
+    "assets/emby/yuanwei.png": {
+      "createdAt": "2026-09-25T13:46:18.586Z",
+      "updatedAt": "2026-09-25T13:46:18.586Z",
+      "source": "recorded",
+      "blobSha": "110654d802adfb63ef457cb63640fc4c7b1f3567"
+    },
     "assets/emby/zhezhi.jpeg": {
       "createdAt": "2026-09-09T05:27:51Z",
       "updatedAt": "2026-09-16T10:24:13Z",
@@ -71,20 +77,20 @@
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
     },
-    "assets/emby/yuanwei.png": {
-      "createdAt": "2026-09-25T13:46:18.586Z",
-      "updatedAt": "2026-09-25T13:46:18.586Z",
+    "assets/emby/yuanwei2.png": {
+      "createdAt": "2026-09-25T13:53:11.198Z",
+      "updatedAt": "2026-09-25T13:53:11.198Z",
       "source": "recorded",
-      "blobSha": "110654d802adfb63ef457cb63640fc4c7b1f3567"
+      "blobSha": "584a86585baddeeadf136d6f999519b34f36a559"
     }
   },
   "libraries": {
     "json/emby-icon.json": {
       "createdAt": "2026-09-09T05:27:51Z",
-      "updatedAt": "2026-09-25T13:46:18.586Z",
+      "updatedAt": "2026-09-25T13:53:11.198Z",
       "source": "git-history",
       "historySha": "2d8b24d7a87ac928650edf6a43af0dfdad0e634f",
-      "blobSha": "5bef8121361f56ff7ee7312714a7c91a21b4e8d6",
+      "blobSha": "006c24a66917b62390bc60448eecaf9926edfb44",
       "references": [
         {
           "name": "lris",
@@ -154,6 +160,13 @@
           "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/yuanwei.png",
           "addedAt": "2026-09-25T13:46:18.586Z",
           "updatedAt": "2026-09-25T13:46:18.586Z",
+          "source": "recorded"
+        },
+        {
+          "name": "yuanwei2",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/yuanwei2.png",
+          "addedAt": "2026-09-25T13:53:11.198Z",
+          "updatedAt": "2026-09-25T13:53:11.198Z",
           "source": "recorded"
         }
       ],
