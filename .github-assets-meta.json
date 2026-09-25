@@ -64,6 +64,12 @@
       "historySha": "c9e2f3918fb56ab64cc9012a2d0e5f42551f2eb7",
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
+    },
+    "assets/emby/yeciyuan.jpeg": {
+      "createdAt": "2026-09-25T13:31:26.212Z",
+      "updatedAt": "2026-09-25T13:31:26.212Z",
+      "source": "recorded",
+      "blobSha": "cabc6a1bae49b77176811263a8db171e94e85474"
     }
   },
   "libraries": {
