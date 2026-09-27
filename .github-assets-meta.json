@@ -82,12 +82,6 @@
       "historySha": "c9e2f3918fb56ab64cc9012a2d0e5f42551f2eb7",
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
-    },
-    "assets/emby/img_8912.jpeg": {
-      "createdAt": "2026-09-27T00:11:55.304Z",
-      "updatedAt": "2026-09-27T00:11:55.304Z",
-      "source": "recorded",
-      "blobSha": "302a9e3eeca4b2e4224b4ed8b8673161b8f3fe42"
     }
   },
   "libraries": {
