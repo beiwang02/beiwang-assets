@@ -69,6 +69,12 @@
       "source": "recorded",
       "blobSha": "110654d802adfb63ef457cb63640fc4c7b1f3567"
     },
+    "assets/emby/yuanwei2.png": {
+      "createdAt": "2026-09-25T13:53:11.198Z",
+      "updatedAt": "2026-09-25T13:53:11.198Z",
+      "source": "recorded",
+      "blobSha": "584a86585baddeeadf136d6f999519b34f36a559"
+    },
     "assets/emby/zhezhi.jpeg": {
       "createdAt": "2026-09-09T05:27:51Z",
       "updatedAt": "2026-09-16T10:24:13Z",
@@ -77,11 +83,11 @@
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
     },
-    "assets/emby/yuanwei2.png": {
-      "createdAt": "2026-09-25T13:53:11.198Z",
-      "updatedAt": "2026-09-25T13:53:11.198Z",
+    "assets/emby/img_8912.jpeg": {
+      "createdAt": "2026-09-27T00:11:55.304Z",
+      "updatedAt": "2026-09-27T00:11:55.304Z",
       "source": "recorded",
-      "blobSha": "584a86585baddeeadf136d6f999519b34f36a559"
+      "blobSha": "302a9e3eeca4b2e4224b4ed8b8673161b8f3fe42"
     }
   },
   "libraries": {
