@@ -63,6 +63,12 @@
       "source": "recorded",
       "blobSha": "cabc6a1bae49b77176811263a8db171e94e85474"
     },
+    "assets/emby/youqibing.jpeg": {
+      "createdAt": "2026-10-03T10:32:58.778Z",
+      "updatedAt": "2026-10-03T10:32:58.778Z",
+      "source": "recorded",
+      "blobSha": "a3c616380855bc0839f7a828861c082ea4d868fd"
+    },
     "assets/emby/yuanwei.png": {
       "createdAt": "2026-09-25T13:46:18.586Z",
       "updatedAt": "2026-09-25T13:46:18.586Z",
@@ -82,12 +88,6 @@
       "historySha": "c9e2f3918fb56ab64cc9012a2d0e5f42551f2eb7",
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
-    },
-    "assets/emby/youqibing.jpeg": {
-      "createdAt": "2026-10-03T10:32:58.778Z",
-      "updatedAt": "2026-10-03T10:32:58.778Z",
-      "source": "recorded",
-      "blobSha": "a3c616380855bc0839f7a828861c082ea4d868fd"
     }
   },
   "libraries": {
@@ -184,6 +184,13 @@
         }
       ],
       "retryable": false
+    },
+    "json/1.json": {
+      "createdAt": "2026-10-03T15:52:30.995Z",
+      "updatedAt": "2026-10-03T15:52:30.995Z",
+      "references": [],
+      "source": "recorded",
+      "blobSha": "5e39e1f23000778817cf327f061df4f1b825c7d2"
     }
   }
 }
