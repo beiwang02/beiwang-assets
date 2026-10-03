@@ -82,15 +82,21 @@
       "historySha": "c9e2f3918fb56ab64cc9012a2d0e5f42551f2eb7",
       "blobSha": "d83a6d2bc422767ba1f77394d53e074c2382cbd8",
       "retryable": false
+    },
+    "assets/emby/youqibing.jpeg": {
+      "createdAt": "2026-10-03T10:32:58.778Z",
+      "updatedAt": "2026-10-03T10:32:58.778Z",
+      "source": "recorded",
+      "blobSha": "a3c616380855bc0839f7a828861c082ea4d868fd"
     }
   },
   "libraries": {
     "json/emby-icon.json": {
       "createdAt": "2026-09-09T05:27:51Z",
-      "updatedAt": "2026-09-25T13:53:11.198Z",
+      "updatedAt": "2026-10-03T10:32:58.778Z",
       "source": "git-history",
       "historySha": "2d8b24d7a87ac928650edf6a43af0dfdad0e634f",
-      "blobSha": "006c24a66917b62390bc60448eecaf9926edfb44",
+      "blobSha": "f280492f539e74d0b22f3611872e2d56d64e320a",
       "references": [
         {
           "name": "lris",
@@ -167,6 +173,13 @@
           "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/yuanwei2.png",
           "addedAt": "2026-09-25T13:53:11.198Z",
           "updatedAt": "2026-09-25T13:53:11.198Z",
+          "source": "recorded"
+        },
+        {
+          "name": "youqibing",
+          "url": "https://raw.githubusercontent.com/beiwang02/beiwang-assets/main/assets/emby/youqibing.jpeg",
+          "addedAt": "2026-10-03T10:32:58.778Z",
+          "updatedAt": "2026-10-03T10:32:58.778Z",
           "source": "recorded"
         }
       ],
