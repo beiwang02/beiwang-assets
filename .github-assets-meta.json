@@ -91,6 +91,13 @@
     }
   },
   "libraries": {
+    "json/1.json": {
+      "createdAt": "2026-10-03T15:52:30.995Z",
+      "updatedAt": "2026-10-03T16:42:29.291Z",
+      "references": [],
+      "source": "recorded",
+      "blobSha": "0ea89bb83a80094d7df5d6b36a36175d5c0deb2c"
+    },
     "json/emby-icon.json": {
       "createdAt": "2026-09-09T05:27:51Z",
       "updatedAt": "2026-10-03T10:32:58.778Z",
@@ -184,13 +191,6 @@
         }
       ],
       "retryable": false
-    },
-    "json/1.json": {
-      "createdAt": "2026-10-03T15:52:30.995Z",
-      "updatedAt": "2026-10-03T15:52:30.995Z",
-      "references": [],
-      "source": "recorded",
-      "blobSha": "5e39e1f23000778817cf327f061df4f1b825c7d2"
     }
   }
 }
